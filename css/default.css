@@ -1,0 +1,81 @@
+/* text-align: left;
+position: relative ; left: 450px;  */
+
+.ipimg {  
+    margin: auto;
+    display: block;
+    text-align:center;
+    
+
+   
+}
+
+#ip0, #ip1, #ip2 {
+    background-color: rgb(188, 188, 4) ; 
+    border-radius: 100px;
+    border: 4px solid black;
+    color: black;
+    font-size: 25px;
+   
+}
+
+main {
+    background-color: black;
+  
+
+
+}
+
+div {
+    position: sticky;
+    top: 0;
+}
+
+
+section {   
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    list-style-position:inside;  
+    background-color: white; 
+}
+
+.enter {   
+    font-size: 18px;
+    top: 50px;
+    text-align: center;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+#indexenter {
+    text-shadow: 0 0 12px rgb(252, 252, 8), 0 0 20px rgb(100, 2, 2);   
+}
+
+
+
+.products {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+   
+}
+
+article {
+    list-style-position:inside;  
+} 
+
+.productimg {
+    width:250px;
+    margin: auto;
+    display: block;
+}
+
+#aboutus {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+
